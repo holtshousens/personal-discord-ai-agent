@@ -1,2 +1,7 @@
 discord.py==2.7.1
 openai==3.19.2
+
+evohome-async
+python-dotenv
+
+evohome-async==2.1.0
